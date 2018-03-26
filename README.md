@@ -6,7 +6,7 @@ please enjoy!
 <br>
 <br>
 ## Entries ##
-<br>
+
 [Entrie 1: Getting started](blogentries/entry1.md)
 
 Entrie 2
