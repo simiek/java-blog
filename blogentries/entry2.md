@@ -13,9 +13,14 @@ https://www.codecademy.com/courses/learn-java
 # understanding eclipse #
 http://help.eclipse.org/oxygen/index.jsp?nav=%2F0
 
+I did some digging on the official website, and I ended up finding an official documentation providing in depth details on how to use the program. From what i was able to gather after reading the basics and doing a tutorial on how to create a hello world program. I ended up discovering that classes are required in order to make something work. 
+
 ![capture.jpg](capture.jpg)
 
-I did some digging on the oficcial website
+This gave me two emotional responses, one being “Its like ruby's object orientation! Im familiar with this!”and the more negative “It's like ruby's object orientation……. Which im terrible at...” 
+
+Yet i'm not discouraged by this! I can at least learn this again at my own pace this time, instead of rushing through certain aspects. Besides I found another teaching service linked above that i will try soon!
+
 # lessons from the academy #
 I started codecademy with already familiarity with javascript, I noticed many familiarities between all the languages that i've used. Such as If else statements.
 <pre><code>if (7 <= 7) {
@@ -53,6 +58,15 @@ For example the variable could be a value a player controls and thus the differe
 
 # Takeaways #
 
+* <strong>First find a teaching service to familiarize yourself with the material
+
+* Next find a video guide to help clear up some conflicts and uncertainties you may have
+
+* Then test out what you've learned in a code editor
+
+* finally remind yourself that time is limited, don't procrastinate 
+
+</strong>
 
 
 
