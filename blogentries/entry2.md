@@ -13,9 +13,7 @@ https://www.codecademy.com/courses/learn-java
 # understanding eclipse #
 http://help.eclipse.org/oxygen/index.jsp?nav=%2F0
 
-<img src=""
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+![capture.jpg](capture.jpg)
 
 I did some digging on the oficcial website
 # lessons from the academy #
