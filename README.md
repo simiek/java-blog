@@ -9,7 +9,7 @@ please enjoy!
 
 [Entrie 1: Getting started](blogentries/entry1.md)
 
-Entrie 2
+[Entrie 2: Conflicts with code editor](blogentries/entry2.md)
 
 Entrie 3
 
