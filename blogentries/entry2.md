@@ -55,7 +55,23 @@ Well let's look at it like this: You have a variable equal to some value. Then y
 
 For example the variable could be a value a player controls and thus the different cases represent different actions, the default is used just in case the player does an impossible action. Try to see if you can find your own understanding if mine was unclear.
 # Video review #
+Watching the first video of “Java Programming: Let's Build a Game #1” has already showed me a framework on what I should start with in terms of starting off my game development. Its complex but from what I can understand its almost identical to creating a canvas in javascript. Familiarity is good!
+See below for pic of starting framework.
 
+![Capture1.jpg](Capture1.jpg)
+
+From this the narrator describes what a Jframe is: in short a Jframe is the actual window of our game, it is inessence our very own playground for testing our game. The narrator then goes on to talk about frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+
+
+<pre><code>frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);</code></pre>
+
+This line of code ensures that once the user exits the window or presses a key on the computer that is assigned to exit the game, the game will stop running and end its processes.
+
+### After watching the first episode. ###
+
+The first episode Comes with the starter code to create a game! It is very lengthy and is full of things i'm not too sure about, however I am confident that this is the perfect way to start game development. Continuing from this I am not sure on what to make yet, though I am Eager to what I can think of.
+
+![Capture3.jpg](Capture3.jpg)
 # Takeaways #
 
 * <strong>First find a teaching service to familiarize yourself with the material
@@ -72,4 +88,3 @@ For example the variable could be a value a player controls and thus the differe
 
 
 
-<pre><code></code></pre>
