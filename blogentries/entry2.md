@@ -5,6 +5,7 @@ Starting off week two I decided that i need to make progress posthaste! So I dow
 <br>
 https://www.youtube.com/watch?v=1gir2R7G9ws
 
+
 https://www.codingmadesimple.com/courses/
 
 https://www.codecademy.com/courses/learn-java
