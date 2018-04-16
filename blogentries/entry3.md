@@ -7,11 +7,11 @@ Starting this week off I watched more of the video tutorial, I also did more les
 
 Here is a handler class, which in turn updates and renders all objects within our game.
 
-![capture.jpg](handle.jpg)
+![capture.jpg](handle.JPG)
 
 Here protected is used because it offers a way for our game objects to only interact with these x and y coordinates.
 
-![capture.jpg](protected.jpg)
+![capture.jpg](protected.JPG)
 
 # Lessons from the academy: #
 
