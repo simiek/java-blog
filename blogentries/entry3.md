@@ -13,6 +13,14 @@ Here protected is used because it offers a way for our game objects to only inte
 
 ![capture.jpg](protected.JPG)
 
+From what I gathered after watching this video, as the narrator finished up his back end portion of his game, I began to realize that the backend of any game needs to really be touched up and polished, since it jeopardizes the quality of your product.
+ 
+Having code that is sloppy and inefficient will harm your game in the same fashion. Promptly resulting in your game to run terribly and possibly, to incorrectly function leading to a crash.
+ 
+So the main focus that anyone should have when creating a game is to have it be as efficient as possible.   
+
+![capture.jpg](efficiency.jpg)
+
 # Lessons from the academy: #
 
 As I continued Code academy. I saw that much of it was ruby concepts but with java syntax. So from this I can conclude that ruby and java are both very similar. Seeing how methods and classes are used functionally the same, I felt that this section of code academy has been a review in a way.
