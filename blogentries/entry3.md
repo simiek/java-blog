@@ -11,3 +11,30 @@ Here are some examples of what I mean.
 ![capture.jpg](dog2.JPG)
 
 ![capture.jpg](dog3.JPG)
+
+# Tips: #
+
+So since i'm starting to think about how I need to create my game, I thought searching up some tips would be useful. Specifically for java development, so i found the top 4 that I feel are the most useful
+
+
+### 1. Make sure you get the basics right ###
+
+Master the basics of java before doing anything reckless.. As a result of being reckless, you would only get ‘bits and pieces’ of  knowledge as well as a few options that Java offers, but basics hang on a loose thread. Java is one programming language which is easy if you have paid attention to the simple basics, however; it can be frustrating if you get greedy and try to take the shorter route forward.
+
+
+
+### 2. Understand your code and algorithms ###
+
+Start by realizing the code on a piece of paper(or as Mr. Mueller calls it, Pseudocode). The algorithm and the compiler process will look very meaningful once you understand the idea behind the code. The best way to solve a complex problem or to formulate an algorithm  to solve a Java program is to break the problem into portions and then try to devise a solution for each part. 
+
+### 3. Do not forget to allocate memory ###
+
+The memory allocation in Java using the ‘new’ keyword is a necessity as Java is a dynamic programming language. Therefore you must take care while handling array and object declaration in Java. Not using the ‘new’ keyword will show a null pointer exception in the code.
+
+
+### 4. Avoid creating useless objects ###
+
+When you create an object in Java, you use up memory and processor speed from the system. Since object creation is incomplete without allocating memory to it, it is better to keep the object requirements under check and not create unwanted objects in the code.
+
+
+I will be Keeping these in mind for when I code my MVP for my Java project.
