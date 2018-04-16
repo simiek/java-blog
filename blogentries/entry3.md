@@ -65,6 +65,6 @@ I will be Keeping these in mind for when I code my MVP for my Java project.
 1. Reviewing concepts within new syntax broadens understanding
 2. Avoid Creating useless Objects since it takes up memory and storage
 3. Pseudocode is a very useful practice for MVP development and can solve a multitude of problems(Wish I understood this sooner)
-4. 
+4.  Be as efficient as possible.
 
 
