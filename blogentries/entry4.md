@@ -8,6 +8,6 @@
 ![capture.jpg](Code8.png)
 ![capture.jpg](Code9.png)
 
-# Creating Super Lario Brothers #
+# Trying what Ive learned #
 
-During week 3 we decided what our project will be called
+This week I mainly focused on working though the video tutorials and being able to create a program that works well within eclipse. I’ve been feeling good about but have nothing to show for it at this time. So I decided that I will show everyone next week what I have created.
