@@ -13,9 +13,9 @@ please enjoy!
 
 [Entrie 3: Studys Progressivly Continue](blogentries/entry3.md)
 
-Entrie 4
+[Entrie 4: Started out coding and trying new things](blogentries/entry4.md)
 
-Entrie 5
+[Entrie 5: Super lario brothers is born!](blogentries/entry5.md)
 
 Entrie 6
 
