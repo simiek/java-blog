@@ -1,4 +1,5 @@
 # Creating Super Lario Brothers #
+Note ALL code screenshots are from my own personal Codeenvy if need be, proof can be provided.
 
 During week 4 we decided what our project will be called, and then we created an MVP for our project, Thusly named our new project Super Lario Brothers. 
 
@@ -14,3 +15,9 @@ The images below this one are what the in game time is, not to be confused with 
 
 ![capture.jpg](Code4.png)
 
+The image below represents the player object in our game. The object itself represents what the player can do and where players velocities will be, another detail to point out would be the fact that the player also has graphics, just not yet implemented.
+
+![capture.jpg](Code5.png)
+
+![capture.jpg](Code7.png)
+This class represents all game objects and when attached to another function, that function is now shared with this class. The benefits of having this are to differentiate what is the player, what the enemy is, and what is a coin/other object. In short this helps separate objects and provides efficiency in code.
