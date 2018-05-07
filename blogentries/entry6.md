@@ -24,4 +24,4 @@ His design isnt final, however he will be finished in due time.
 
 We Created a first level with a tileset provided by a creative commons source. The tile map is our fundemental vision of what the first level will be. This tile map will be implemented once we have finished everything else required.
 
-![capture.mp](lario1.mp4)
+![capture.mp4](Lario1_1.mp4)
