@@ -17,9 +17,9 @@ please enjoy!
 
 [Entrie 5: Super lario brothers is born!](blogentries/entry5.md)
 
-Entrie 6
+[Entrie 6: game dev pro?](blogentries/entry6.md)
 
-Entrie 7
+[Entrie 7: MVP READY](blogentries/entry7.md)
 
 Entrie 8
 
