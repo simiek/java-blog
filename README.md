@@ -21,6 +21,6 @@ please enjoy!
 
 [Entrie 7: MVP READY](blogentries/entry7.md)
 
-Entrie 8
+[Entrie 8: A week bugs](blogentries/entry8.md)
 
 Entrie 9
