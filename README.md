@@ -23,4 +23,4 @@ please enjoy!
 
 [Entrie 8: A week bugs](blogentries/entry8.md)
 
-Entrie 9
+[Entrie 9: Final Update](blogentries/entry9.md)
